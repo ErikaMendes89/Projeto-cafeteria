@@ -35,3 +35,6 @@ Desenvolvido por: Erika Mendes atraves do curso de Front-End do DevMedia.<br>
 Clone este repositório para sua máquina local.<br>
 Abra o arquivo index.html em seu navegador da web. <br>
 Aproveite a experiência de conhecer a Manhattan - Coffee House, e desfrute do melhor café da cidade!
+
+![KermitDanceGIF](https://github.com/ErikaMendes89/Projeto-cafeteria/assets/95776659/71c4e778-cb7d-4500-bb5d-8ca2e796c25b)
+
